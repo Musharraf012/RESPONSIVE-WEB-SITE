@@ -1,0 +1,343 @@
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (min-width:1600px) and (max-width:1900px) {}
+
+@media only screen and (min-width:1440px) and (max-width:1590px) {}
+
+@media only screen and (min-width:1300px) and (max-width:1390px) {
+    .carousel-caption {
+        bottom: 32%;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1300px) {
+    .carousel-caption {
+        bottom: 30%;
+    }
+}
+
+@media only screen and (min-width:1180px) and (max-width:1200px) {
+    .carousel-caption {
+        bottom: 30%;
+    }
+}
+
+@media screen and (max-width:1179px) {
+    .carousel-caption {
+        bottom: 14%;
+    }
+
+    .section3 {
+        text-align: center;
+    }
+
+    .commonpadding {
+        padding: 65px 0px;
+    }
+
+    .pstart {
+        padding-left: 3rem;
+    }
+
+    .section4 .row,
+    .section7 .row {
+        align-items: center;
+    }
+
+    .section3 .hrline1 {
+        display: none;
+    }
+
+    .section3 .card {
+        margin-top: 25px;
+    }
+
+    .pad193 {
+        padding: 82px 0;
+    }
+
+}
+
+@media screen and (max-width:990px) {
+    .carousel-caption {
+        bottom: 5%;
+    }
+
+    header h3 {
+        font-size: 22px;
+    }
+
+    .carousel-caption {
+        bottom: 13%;
+    }
+
+    h1 {
+        font-size: 60px;
+    }
+
+    .btn1 {
+        padding: 10px 30px;
+        font-size: 18px;
+    }
+
+    .hrline1 {
+        width: 30px;
+    }
+
+    .fontsize50 {
+        font-size: 20px;
+    }
+
+    .fontsize60 {
+        font-size: 33px;
+    }
+
+    .section3 {
+        text-align: center;
+    }
+
+    .section3 .hrline1 {
+        display: none;
+    }
+
+    .section3 .card {
+        margin-top: 25px;
+    }
+
+    .commonpadding {
+        padding: 35px 0;
+    }
+
+    .project {
+        font-size: 18px;
+    }
+
+    .max {
+        max-width: 350px;
+    }
+
+    .pstart {
+        padding-left: 25px;
+    }
+
+    .section4 .row,
+    .section7 .row {
+        align-items: center;
+    }
+
+    .pad193 {
+        padding: 89px 60px;
+    }
+
+
+
+    .section8 .card-title {
+        font-size: 18px;
+    }
+
+    .py3 {
+        padding: 0;
+    }
+
+    div {
+        font-size: 14px;
+    }
+
+    .section6 h5 {
+        font-size: 16px;
+    }
+
+    .ourservices h2 {
+        font-size: 30px;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+
+    .buildings,
+    .blackdiv {
+        display: none;
+    }
+
+    .mtop {
+        margin-top: 0;
+    }
+
+    .section4 .btn1 {
+        padding: 6px 25px;
+    }
+
+    .section6 h5 {
+        font-size: 13px;
+    }
+
+    .pad193 {
+        padding: 79px 0;
+    }
+
+    .carousel-item h5 {
+        font-size: 25px;
+    }
+
+    .project {
+        font-size: 13px;
+    }
+
+    .btn1 {
+        padding: 6px 25px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    header .container {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .footerpadding {
+        padding: 70px 50px 50px 50px;
+    }
+
+    .ourservices h2 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:525px) {
+
+    .blackdiv,
+    .buildings {
+        display: none;
+    }
+
+    .mtop {
+        margin-top: 0;
+    }
+
+    .carousel-caption {
+        bottom: 8%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .carousel-item h5 {
+        font-size: 16px;
+    }
+
+    .pad155 {
+        padding: 60px 0;
+    }
+
+    .pad193 {
+        padding: 120px 0;
+    }
+
+    .pad193 h3 {
+        max-width: 250px;
+        margin: auto;
+    }
+
+
+
+
+
+    .fsize20 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .hrline1 {
+        width: 30px;
+    }
+
+    .max {
+        text-align: center;
+    }
+
+    .btn1 {
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+
+    .fontsize50 {
+        font-size: 30px;
+    }
+
+    .commonpadding {
+        padding: 22px 22px;
+    }
+
+    h4 {
+        font-size: 21px;
+    }
+
+    address,
+    a,
+    span,
+    input,
+    div {
+        font-size: 15px;
+    }
+
+    .m37 {
+        margin-top: 37px;
+    }
+
+    .footerpadding {
+        padding: 22px 22px;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .project {
+        font-size: 13px;
+    }
+
+    .section2 i {
+        font-size: 13px;
+    }
+
+    .p0 {
+        padding: 0;
+    }
+
+    .section3 .card {
+        margin-top: 20px;
+
+    }
+
+    .txtcntr {
+        text-align: center;
+    }
+
+    .section6 .pstart {
+        padding-left: 0;
+    }
+
+    .section5 .btn2 {
+        font-size: 14px;
+        padding: 2px 5px;
+    }
+
+    .ourservices h2 {
+        font-size: 14px;
+
+    }
+
+    .ourservices i {
+        font-size: 10px;
+    }
+
+    .ourservices .btn2 {
+        padding: 1px 4px;
+        font-size: 13px;
+    }
+
+}

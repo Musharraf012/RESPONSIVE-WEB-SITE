@@ -1,0 +1,409 @@
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: poppins;
+}
+
+.icon-set {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.white {
+    color: white;
+}
+
+.white a {
+    text-decoration: none;
+    color: white;
+}
+
+.hrline1 {
+    width: 60px;
+    border: 2px solid #dfb163;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #dfb163;
+
+}
+
+.logoimg {
+    max-width: 100%;
+}
+
+.navbar {
+    background-color: #252531;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #dfb163;
+
+}
+
+
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.buildings a {
+    text-decoration: none;
+    color: #00000094;
+}
+
+address {
+    color: #00000094;
+}
+
+.anc {
+    text-decoration: none;
+    color: white;
+
+}
+
+
+.blackdiv {
+    background-color: black;
+    padding: 19px 0 50px 0px;
+
+
+}
+
+.mtop {
+    margin-top: -30px;
+}
+
+
+
+
+
+.carousel-caption {
+    bottom: 22.25rem;
+}
+
+.sliderimg {
+    width: 100%;
+}
+
+.section1 h5 {
+    color: #c3a22c;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.btn1 {
+    padding: 15px 40px;
+    border: none;
+    font-size: 19px;
+    background-color: #dfb163;
+    ;
+    color: #000000a3;
+    border-radius: 1px;
+}
+
+.carousel-item .btn1 {
+    margin-top: 30px;
+}
+
+.carousel-item h5 {
+    font-size: 30px;
+}
+
+.yearsexperience {
+    width: 100%;
+    background-color: #dfb163;
+    ;
+    text-align: center;
+    padding: 170px 0
+}
+
+.yellow {
+    color: #c3a22c;
+}
+
+.pad155 {
+    padding: 155px 0;
+}
+
+.commonpadding {
+    padding: 100px 0px;
+}
+
+.padright45 {
+    padding-right: 45px;
+}
+
+.blk {
+    display: block;
+}
+
+.inln {
+    display: inline;
+}
+
+h2,
+h3,
+h4 {
+    text-transform: capitalize;
+}
+
+.fontsize50 {
+    font-size: 40px;
+}
+
+.max {
+    max-width: 655px;
+    margin: auto;
+}
+
+.section6 .card {
+    padding: 0;
+}
+
+.section4 .row,
+.section7 .row {
+    align-items: center;
+}
+
+.py3 {
+    padding: 1rem 0;
+}
+
+.pstart {
+    padding-left: 3rem;
+}
+
+.section2,
+.section4,
+.section8,
+.section6 {
+    background-color: #f3f6ff;
+}
+
+.fontsize60 {
+    font-size: 60px;
+}
+
+.ma-top {
+    margin-top: 40px;
+}
+
+.project {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.awesome i {
+    color: #dfb163;
+    ;
+
+}
+
+.maxwidth100 {
+    max-width: 100%;
+}
+
+.blc {
+    color: black;
+}
+
+.commonpaddingtopleft {
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+.awesome {
+    margin-top: 33px;
+}
+
+.fsize20 {
+    font-size: 20px;
+}
+
+.section3 .btn1,
+.section4 .btn1 {
+    padding: 10px 30px;
+
+}
+
+.clientimg {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.clientdiv {
+    display: flex;
+    align-items: center;
+}
+
+.clientinfo {
+    margin-left: 10px;
+}
+
+.lghtblc {
+    color: rgb(67 67 73);
+}
+
+.btn2 {
+    background: none;
+    border: 2px solid #dfb163;
+    ;
+    padding: 3px 10px;
+    border-radius: 2px;
+
+}
+
+.mleft10 {
+    margin-left: 10px;
+}
+
+.awesome .btn2:hover {
+    background-color: black;
+}
+
+.bg-yellow {
+    background-color: #dfb163;
+    ;
+}
+
+.laddrlogo {
+    width: 25%;
+}
+
+.ladderlogoimg {
+    max-width: 100%;
+}
+
+.tbb-50 {
+    top: 50%;
+    bottom: 50%;
+}
+
+.cardwidth {
+    width: 40%;
+}
+
+.bg-grayy {
+    background-color: #f3f6ff;
+}
+
+.mw-45 {
+    min-width: 47%
+}
+
+.boxshadow {
+    box-shadow: -1px 0px 5px black;
+}
+
+.section5 .btn2:hover {
+    background-color: #dfb163;
+    color: black;
+}
+
+.w-3333 {
+    width: 33.333%;
+
+}
+
+.bgblc {
+    background-color: rgb(37 37 49);
+}
+
+.pos {
+    position: absolute;
+    width: 92%;
+    bottom: 0;
+}
+
+
+
+.section8 .anc {
+    color: black;
+}
+
+.aboutus,
+.ourservices {
+    background-color: #252531;
+}
+
+.aboutus h2,
+.ourservices h2 {
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.pad193 {
+    padding: 193px 0;
+}
+
+footer {
+    background-color: black;
+}
+
+.anc:hover {
+    color: #dfb163;
+}
+
+.round {
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.footerpadding {
+    padding: 100px 50px 50px 50px;
+}
+
+.footerul {
+    list-style-type: disclosure-closed;
+    color: white;
+    line-height: 2;
+}
+
+footer input {
+    width: 100%;
+    height: 38px;
+    border: none;
+    outline: none;
+
+}
+
+.btnn {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 2px;
+    background-color: #dfb163;
+}
+
+.footerborder {
+    max-width: 867px;
+    margin: auto;
+    border: 1px solid #2c2828c2;
+}
